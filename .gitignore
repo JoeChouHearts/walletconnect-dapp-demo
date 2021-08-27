@@ -1,1 +1,9 @@
 node_modules
+.expo/packager-info.json
+android/.gradle/6.8/fileHashes/fileHashes.lock
+android/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+android/.gradle/buildOutputCleanup/cache.properties
+android/.gradle/checksums/checksums.lock
+android/.gradle/checksums/md5-checksums.bin
+android/.gradle/checksums/sha1-checksums.bin
+android/app/src/main/java/cmo/DemoDapp/generated/BasePackageList.java

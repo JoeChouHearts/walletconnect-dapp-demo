@@ -1,7 +1,7 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "/Users/joechou/Documents/ProjectDemo/workTrySpace/createDapp/DemoDapp/contracts/Hello.sol": {
+    "/Users/joechou/Documents/ProjectDemo/workTrySpace/createDapp/DemoDapp/walletconnect-dapp-demo/contracts/Hello.sol": {
       "lastModificationDate": 1630052627485,
       "contentHash": "94d0c19a30924ec427b7d02c8fe45373",
       "sourceName": "contracts/Hello.sol",
@@ -37,7 +37,7 @@
         "Hello"
       ]
     },
-    "/Users/joechou/Documents/ProjectDemo/workTrySpace/createDapp/DemoDapp/node_modules/hardhat/console.sol": {
+    "/Users/joechou/Documents/ProjectDemo/workTrySpace/createDapp/DemoDapp/walletconnect-dapp-demo/node_modules/hardhat/console.sol": {
       "lastModificationDate": 1630052596372,
       "contentHash": "c20b2460755f312099ccd61427237ded",
       "sourceName": "hardhat/console.sol",
