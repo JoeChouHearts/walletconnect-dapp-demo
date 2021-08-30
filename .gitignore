@@ -120,3 +120,17 @@ buck-out/
 web-build/
 
 # @end expo-cli
+ios/DemoDapp.xcworkspace/xcuserdata/joechou.xcuserdatad/UserInterfaceState.xcuserstate
+android/.gradle/6.8/executionHistory/executionHistory.bin
+android/.gradle/6.8/executionHistory/executionHistory.lock
+android/.gradle/6.8/fileHashes/fileHashes.bin
+android/.gradle/6.8/javaCompile/classAnalysis.bin
+android/.gradle/6.8/javaCompile/javaCompile.lock
+android/.gradle/6.8/javaCompile/taskHistory.bin
+android/app/build/generated/rncli/src/main/java/com/facebook/react/PackageList.java
+android/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
+android/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt
+android/app/build/intermediates/javac/debug/classes/com/facebook/react/PackageList.class
+android/app/build/intermediates/project_dex_archive/debug/out/com/facebook/react/PackageList.dex
+android/app/build/outputs/apk/debug/app-debug.apk
+android/app/src/main/java/cmo/DemoDapp/generated/BasePackageList.java
